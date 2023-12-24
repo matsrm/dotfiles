@@ -1,4 +1,8 @@
+
+
+
+# Applications
+cask "visual-studio-code"
 cask "1password"
 
 
-## Test
