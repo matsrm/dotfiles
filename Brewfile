@@ -3,14 +3,11 @@ brew "git"
 
 
 
-cask "warp"
-
-
 # Programming lang
 brew "python"
 
 # Browsers
-cask "chromium"
+cask "google-chrome"
 cask "firefox-developer-edition"
 
 # Applications
