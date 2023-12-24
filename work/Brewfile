@@ -2,6 +2,10 @@ brew "yadm"
 brew "git"
 
 
+
+cask "warp"
+
+
 # Programming lang
 brew "python"
 
