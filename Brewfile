@@ -8,6 +8,7 @@ brew "python"
 
 # Browsers
 cask "google-chrome"
+cask "firefox"
 cask "firefox-developer-edition"
 
 # Applications
