@@ -1,6 +1,7 @@
 brew "yadm"
 brew "git"
 
+cask "alt-tab"
 
 
 # Programming lang
@@ -10,6 +11,9 @@ brew "python"
 cask "google-chrome"
 cask "firefox"
 cask "firefox-developer-edition"
+
+
+
 
 # Applications
 cask "visual-studio-code"
