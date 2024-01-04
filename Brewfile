@@ -1,6 +1,7 @@
 brew "yadm"
 brew "git"
 brew "pnpm"
+brew "npm"
 
 cask "alt-tab"
 cask "iterm2"
