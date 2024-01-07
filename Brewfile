@@ -2,6 +2,8 @@ brew "yadm"
 brew "git"
 brew "pnpm"
 brew "npm"
+brew "pulumi"
+brew "docker"
 
 cask "alt-tab"
 cask "iterm2"
