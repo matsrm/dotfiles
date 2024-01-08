@@ -3,6 +3,8 @@ brew "git"
 brew "pnpm"
 brew "npm"
 brew "pulumi"
+brew "tap"
+brew "esc"
 brew "docker"
 
 cask "alt-tab"
