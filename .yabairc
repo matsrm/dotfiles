@@ -1,0 +1,25 @@
+# debugging
+yabai -m config debug_output on
+
+## tiling options ##
+
+# layout
+
+# bsp or float (default: float)
+yabai -m config layout bsp
+
+# New window spawns to the left if vertical split, or top if horizontal split
+yabai -m config window_placement first_child
+
+# window opacity
+# inactive windows 90% opac
+yabai -m config window_opacity on
+yabai -m config active_window_opacity 1.0
+yabai -m config normal_window_opacity 0.9
+
+# padding options
+yabai -m config top_padding    10
+yabai -m config bottom_padding 10
+yabai -m config left_padding   10   
+yabai -m config right_padding  10
+yabai -m config window_gap     10
