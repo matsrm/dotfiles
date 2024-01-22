@@ -14,6 +14,7 @@ cask "iterm2"
 brew "python"
 
 # Browsers
+cask "eloston-chromium"
 cask "google-chrome"
 cask "firefox"
 cask "firefox-developer-edition"
