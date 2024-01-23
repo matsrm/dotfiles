@@ -17,7 +17,6 @@ brew "python"
 cask "eloston-chromium"
 cask "google-chrome"
 cask "firefox"
-cask "firefox-developer-edition"
 
 
 
@@ -28,7 +27,6 @@ cask "1password"
 cask "spotify"
 cask "slack"
 cask "obsidian"
-cask "google-meet"
 
 
 
