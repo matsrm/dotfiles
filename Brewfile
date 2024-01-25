@@ -5,7 +5,10 @@ brew "npm"
 brew "pulumi"
 brew "esc"
 brew "docker"
+
+# VPN
 brew "openvpn"
+cask "openvpn-connect"
 
 cask "alt-tab"
 cask "iterm2"
