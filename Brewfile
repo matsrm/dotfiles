@@ -6,6 +6,7 @@ brew "pulumi"
 brew "esc"
 brew "docker"
 
+
 # VPN
 brew "openvpn"
 cask "openvpn-connect"
@@ -15,6 +16,7 @@ cask "iterm2"
 
 # Programming lang
 brew "python"
+brew "go"
 
 # Browsers
 cask "eloston-chromium"
