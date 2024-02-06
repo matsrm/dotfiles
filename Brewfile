@@ -5,12 +5,14 @@ brew "npm"
 brew "pulumi"
 brew "esc"
 brew "docker"
+cask "postman"
 
 
 # VPN
 brew "openvpn"
 cask "openvpn-connect"
 
+# Other
 cask "alt-tab"
 cask "iterm2"
 
@@ -22,9 +24,6 @@ brew "go"
 cask "eloston-chromium"
 cask "google-chrome"
 cask "firefox"
-
-
-
 
 # Applications
 cask "visual-studio-code"
